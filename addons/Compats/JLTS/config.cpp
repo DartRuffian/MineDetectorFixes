@@ -16,6 +16,7 @@ class CfgPatches
             "MDF_Main",
             QUOTE(ADDON),
             "JLTS_C_Credits",
+            "JLTS_C_Drugs",
             "JLTS_drones_MSE6"
         };
         units[] = {};
