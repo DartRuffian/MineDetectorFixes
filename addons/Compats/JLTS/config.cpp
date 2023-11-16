@@ -19,6 +19,7 @@ class CfgPatches
             "JLTS_C_Drugs",
             "JLTS_C_IDs",
             "JLTS_C_Intel",
+            "JLTS_weapons_Core",
             "JLTS_drones_MSE6"
         };
         units[] = {};

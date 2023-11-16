@@ -7,4 +7,5 @@ class CfgWeapons
     SIMPLE_PATCH(JLTS_drugs_electrolit);
     SIMPLE_PATCH(JLTS_ids_gar_navy);
     SIMPLE_PATCH(JLTS_intel_holocron_jedi);
+    SIMPLE_PATCH(JLTS_repairkit_weapon);
 };
