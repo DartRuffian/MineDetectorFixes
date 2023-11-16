@@ -26,7 +26,17 @@ url = "https://github.com/DartRuffian/Mine-Detector-Fixes"
 
 [hemtt.launch.default]
 workshop = [
-    "450814997"  # CBA
+    "450814997" # CBA
+]
+presets = []
+dlc = []
+optionals = []
+parameters = []
+
+[hemtt.launch.jlts]
+workshop = [
+    "450814997", # CBA
+    "1940589429" # JLTS
 ]
 presets = []
 dlc = []
