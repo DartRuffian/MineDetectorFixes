@@ -21,6 +21,7 @@ class CfgPatches
             "JLTS_C_IDs",
             "JLTS_C_Intel",
             "JLTS_weapons_Core",
+            "JLTS_weapons_shield",
             "JLTS_drones_MSE6"
         };
         units[] = {};
