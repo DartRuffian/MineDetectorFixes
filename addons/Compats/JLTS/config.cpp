@@ -17,6 +17,7 @@ class CfgPatches
             QUOTE(ADDON),
             "JLTS_C_Credits",
             "JLTS_C_Drugs",
+            "JLTS_C_IDs",
             "JLTS_drones_MSE6"
         };
         units[] = {};
