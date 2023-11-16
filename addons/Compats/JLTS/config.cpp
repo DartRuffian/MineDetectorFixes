@@ -18,6 +18,7 @@ class CfgPatches
             "JLTS_C_Credits",
             "JLTS_C_Drugs",
             "JLTS_C_IDs",
+            "JLTS_C_Intel",
             "JLTS_drones_MSE6"
         };
         units[] = {};
