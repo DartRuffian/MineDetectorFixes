@@ -1,0 +1,12 @@
+name = "Mine Detector Fixes";
+// picture = "logo_mdf_ca.paa";
+actionName = "GitHub";
+action = "https://github.com/DartRuffian/Dart-Armory-Commandos";
+description = "MDF - Version 0.0.0";
+// logo = "logo_mdf_ca.paa";
+// logoOver = "logo_mdf_over_ca.paa";
+tooltip = "UMF";
+tooltipOwned = "UMF Owned";
+overview = "A collection of fixes for items from mods breaking mine detectors.";
+author = "DartRuffian";
+// overviewPicture = "logo_mdf_ca.paa";
