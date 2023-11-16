@@ -2,7 +2,7 @@
 #define PREFIX MDF
 
 #include "\x\cba\addons\main\script_macros_common.hpp"
-#include "\DA\MDF\Common\script_version.hpp"
+#include "\DA\MDF\Main\script_version.hpp"
 
 #define VERSION_ARR MAJOR,MINOR,PATCHLVL,BUILD
 
