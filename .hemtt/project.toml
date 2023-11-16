@@ -17,9 +17,7 @@ include = [
     "README.md"
 ]
 exclude = [
-    "*.psd",
-    "*.spp",
-    "*.spp.painter_lock"
+    "*.psd"
 ]
 
 [properties]
