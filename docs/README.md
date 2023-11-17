@@ -39,4 +39,4 @@ MDF is built using [HEMTT](https://github.com/BrettMayson/HEMTT). There are seve
 
 ## License
 
-ACE3 is licensed under the Arma Public Licence ([APL](https://github.com/DartRuffian/Mine-Detector-Fixes/blob/main/LICENSE)).
+MDF is licensed under the Arma Public Licence ([APL](https://github.com/DartRuffian/Mine-Detector-Fixes/blob/main/LICENSE)).
