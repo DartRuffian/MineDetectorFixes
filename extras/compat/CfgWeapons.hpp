@@ -1,5 +1,5 @@
 class CfgWeapons
 {
     class CBA_MiscItem;
-    class CBA_MiscItemInfo;
+    class CBA_MiscItem_ItemInfo;
 };

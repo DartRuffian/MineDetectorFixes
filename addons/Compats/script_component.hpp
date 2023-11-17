@@ -3,3 +3,4 @@
 
 #include "\DA\MDF\Main\script_mod.hpp"
 #include "\DA\MDF\Main\script_macros.hpp"
+#include "\DA\MDF\Compats\script_macros.hpp"

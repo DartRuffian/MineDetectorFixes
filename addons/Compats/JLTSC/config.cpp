@@ -13,9 +13,13 @@ class CfgPatches
         requiredAddons[] =
         {
             "A3_Data_F_Decade_Loadorder",
-            "cba_common",
             "MDF_Main",
-            QUOTE(ADDON)
+            QUOTE(ADDON),
+            "JLTS_C_Core",
+            "JLTS_C_Credits",
+            "JLTS_C_Drugs",
+            "JLTS_C_IDs",
+            "JLTS_C_Intel"
         };
         units[] = {};
         weapons[] = {};
