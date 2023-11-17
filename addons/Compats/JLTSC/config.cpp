@@ -15,9 +15,11 @@ class CfgPatches
             "A3_Data_F_Decade_Loadorder",
             "MDF_Main",
             QUOTE(ADDON),
-            "JLTS_weapons_Core",
-            "JLTS_weapons_shield",
-            "JLTS_drones_MSE6"
+            "JLTS_C_Core",
+            "JLTS_C_Credits",
+            "JLTS_C_Drugs",
+            "JLTS_C_IDs",
+            "JLTS_C_Intel"
         };
         units[] = {};
         weapons[] = {};
