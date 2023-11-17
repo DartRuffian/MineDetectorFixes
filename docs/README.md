@@ -7,7 +7,7 @@
         <img src="https://img.shields.io/github/issues-raw/DartRuffian/Mine-Detector-Fixes.svg?style=flat-square&label=Issues" alt="MDF Issues">
     </a>
     <a href="https://github.com/DartRuffian/Mine-Detector-Fixes/releases">
-        <img src="https://img.shields.io/steam/downloads/.svg?style=flat-square&label=Downloads" alt="MDF Downloads">
+        <img src="https://img.shields.io/steam/downloads/3086321202.svg?style=flat-square&label=Downloads" alt="MDF Downloads">
     </a>
     <a href="https://github.com/DartRuffian/Mine-Detector-Fixes/blob/main/LICENSE">
         <img src="https://img.shields.io/badge/License-APL-red.svg?style=flat-square" alt="MDF License">
