@@ -12,11 +12,11 @@ HEMTT_VFS.join("mod.cpp")
 print("mod.cpp version set");
 
 let readme = "README.md";
-let readmemd = HEMTT_VFS.join(readme)
+let readmemd = HEMTT_VFS.join("docs").join(readme)
     .open_file()
     .read();
 readmemd.replace("0.0.0", HEMTT.project().version().to_string_short());
-HEMTT_VFS.join(readme)
+HEMTT_VFS.join("docs").join(readme)
     .create_file()
     .write(readmemd);
 print(readme + " version set");
