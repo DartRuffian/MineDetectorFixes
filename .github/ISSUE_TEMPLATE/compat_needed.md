@@ -1,5 +1,5 @@
 ---
-name: New Compatibility Patch
+name: Compatibility Patch Needed
 about: List a mod needing a fix for its items.
 title: ''
 labels: issue/compat-needed
