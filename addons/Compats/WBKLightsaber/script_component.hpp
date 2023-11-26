@@ -1,3 +1,3 @@
-#define SUBCOMPONENT MDF_WBKLightsaber
+#define SUBCOMPONENT WBKLightsaber
 
 #include "..\script_component.hpp"
