@@ -6,7 +6,7 @@ class CfgPatches
 {
     class SUBADDON
     {
-        author = "DartRuffian";
+        author = "Your Name";
         name = COMPONENT_NAME;
         addonRootClass = QUOTE(ADDON);
         requiredVersion = REQUIRED_VERSION;
