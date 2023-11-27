@@ -12,8 +12,6 @@ class CfgPatches
         requiredVersion = REQUIRED_VERSION;
         requiredAddons[] =
         {
-            "A3_Data_F_Decade_Loadorder",
-            "MDF_Main",
             QUOTE(ADDON),
             "WBK_SomeSciFiWeapons"
         };
