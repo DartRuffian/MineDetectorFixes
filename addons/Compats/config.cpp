@@ -10,7 +10,6 @@ class CfgPatches
         requiredVersion = REQUIRED_VERSION;
         requiredAddons[] =
         {
-            "A3_Data_F_Decade_Loadorder",
             "cba_common",
             "MDF_Main"
         };
