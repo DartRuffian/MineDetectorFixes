@@ -25,6 +25,11 @@ While containing fixes for several mods, only patches for mods that players have
 - [Just Like The Simulations - The Great War](https://steamcommunity.com/sharedfiles/filedetails/?id=1940589429)
 - [Just Like The Simulations - Contraband](https://steamcommunity.com/sharedfiles/filedetails/?id=1875369298)
 
+
+- [cTab](https://steamcommunity.com/sharedfiles/filedetails/?id=871504836) / [cTab NSWDG Edition](https://steamcommunity.com/sharedfiles/filedetails/?id=2511318948)
+- [ACE 3 Extension (Placeables)](https://steamcommunity.com/sharedfiles/filedetails/?id=866772689)
+- [Lightsabers and Force](https://steamcommunity.com/sharedfiles/filedetails/?id=2323185592)
+
 ## Contributing
 
 Users are welcome to create a compatability patch for a mod by using the [example patch](https://github.com/DartRuffian/Mine-Detector-Fixes/tree/main/extras/compat) as a base.
