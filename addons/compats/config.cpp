@@ -11,7 +11,7 @@ class CfgPatches
         requiredAddons[] =
         {
             "cba_common",
-            "MDF_Main"
+            "mdf_main"
         };
         units[] = {};
         weapons[] = {};

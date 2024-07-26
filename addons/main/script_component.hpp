@@ -1,4 +1,5 @@
-#define COMPONENT Main
+#define COMPONENT main
+#define COMPONENT_BEAUTIFIED Main
 
-#include "\DA\MDF\Main\script_mod.hpp"
-#include "\DA\MDF\Main\script_macros.hpp"
+#include "script_mod.hpp"
+#include "script_macros.hpp"

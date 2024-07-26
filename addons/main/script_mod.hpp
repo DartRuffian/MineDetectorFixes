@@ -1,7 +1,7 @@
 #define MAINPREFIX DA
 #define PREFIX MDF
 
-#include "\DA\MDF\Main\script_version.hpp"
+#include "script_version.hpp"
 
 #define REQUIRED_VERSION 2.14
 
