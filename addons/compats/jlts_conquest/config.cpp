@@ -2,16 +2,13 @@
 #include "CfgWeapons.hpp"
 
 
-class CfgPatches
-{
-    class SUBADDON
-    {
+class CfgPatches {
+    class SUBADDON {
         author = "DartRuffian";
         name = COMPONENT_NAME;
         addonRootClass = QUOTE(ADDON);
         requiredVersion = REQUIRED_VERSION;
-        requiredAddons[] =
-        {
+        requiredAddons[] = {
             QUOTE(ADDON),
             "JLTS_C_Core",
             "JLTS_C_Credits",

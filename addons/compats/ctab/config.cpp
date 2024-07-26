@@ -4,16 +4,13 @@
 // Works for both cTab and cTab NSWDG edition
 // Will likely work for other ctab versions as well
 
-class CfgPatches
-{
-    class SUBADDON
-    {
+class CfgPatches {
+    class SUBADDON {
         author = "DartRuffian";
         name = COMPONENT_NAME;
         addonRootClass = QUOTE(ADDON);
         requiredVersion = REQUIRED_VERSION;
-        requiredAddons[] =
-        {
+        requiredAddons[] = {
             QUOTE(ADDON),
             "cTab"
         };
