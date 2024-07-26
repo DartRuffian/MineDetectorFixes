@@ -45,4 +45,4 @@ For local testing, `hemtt launch` can be used.
 
 ## License
 
-MDF is licensed under the Arma Public Licence ([APL](https://github.com/DartRuffian/Mine-Detector-Fixes/blob/main/LICENSE)).
+MDF is licensed under the [Arma Public Licence (APL)](https://github.com/DartRuffian/Mine-Detector-Fixes/blob/main/LICENSE).
