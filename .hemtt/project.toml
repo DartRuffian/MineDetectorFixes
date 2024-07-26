@@ -13,7 +13,7 @@ include = [
     "meta.cpp",
     "logo_mdf_ca.paa",
     "logo_mdf_over_ca.paa",
-    "LICENSE",
+    "LICENSE.md",
     "README.md"
 ]
 exclude = [
