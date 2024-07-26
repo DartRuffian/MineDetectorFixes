@@ -10,7 +10,12 @@ let prefix = "#define MINOR ";
 let current = HEMTT.project().version().minor();
 let next = current + 1;
 
+// Updating minor version should reset patch/build numbers
 script_version.replace(prefix + current.to_string(), prefix + next.to_string());
+current = HEMTT.project().version().patch();
+script_version.replace("#define PATCH " + current.to_string(), "#define PATCH 0");
+current = HEMTT.project().version().build();
+script_version.replace("#define BUILD " + current.to_string(), "#define BUILD 0");
 
 // Write the modified contents to script_version.hpp
 HEMTT_RFS.join("addons")
