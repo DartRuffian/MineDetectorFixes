@@ -18,7 +18,7 @@
 
 The project is entirely **open-source** and any contributions to fix other mods are welcome.
 
-While containing fixes for several mods, only patches for mods that players have enabled when launching arma will be loaded using the `skipWhenMissingDependencies` flag. This ensures that missing addon or missing class errors will not occur.
+While containing fixes for several mods, only patches for mods that players have enabled when launching arma will be loaded using the `skipWhenMissingDependencies` flag. This ensures that only relevant compatability patches are loaded.
 
 ## Available Patches
 
@@ -28,10 +28,12 @@ While containing fixes for several mods, only patches for mods that players have
   - Most cTab forks should work, as long as they keep the same addon and class names.
 - [ACE 3 Extension (Placeables)](https://steamcommunity.com/sharedfiles/filedetails/?id=866772689)
 - [Lightsabers and Force](https://steamcommunity.com/sharedfiles/filedetails/?id=2323185592)
+- [WebKnight Flashlights and Headlamps](https://steamcommunity.com/sharedfiles/filedetails/?id=2572487482)
+- [Zombies and Demons](https://steamcommunity.com/sharedfiles/filedetails/?id=501966277)
 
 ## Contributing
 
-Users are welcome to create a compatability patch for a mod by using the [example patch](https://github.com/DartRuffian/Mine-Detector-Fixes/tree/main/extras/compat) as a base.
+Users are welcome to create a compatability patch for a mod by using the [example patch](./extras/compat) as a base.
 
 ### Submitting issues and requesting patches
 
@@ -42,7 +44,3 @@ If you find a bug in the mod or want to request a compatability patch for anothe
 MDF is built using [HEMTT](https://github.com/BrettMayson/HEMTT). There are bat files included in [tools/](https://github.com/DartRuffian/Mine-Detector-Fixes/tree/main/tools) to automatically update the mod version when building and releasing.
 
 For local testing, `hemtt launch` can be used.
-
-## License
-
-MDF is licensed under the Arma Public Licence ([APL](https://github.com/DartRuffian/Mine-Detector-Fixes/blob/main/LICENSE)).
