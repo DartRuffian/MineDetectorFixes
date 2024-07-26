@@ -4,12 +4,13 @@
 
 class CfgPatches {
     class SUBADDON {
-        author = "Your Name";
+        author = "DartRuffian";
         name = COMPONENT_NAME;
         addonRootClass = QUOTE(ADDON);
         requiredVersion = REQUIRED_VERSION;
         requiredAddons[] = {
-            QUOTE(ADDON)
+            QUOTE(ADDON),
+            "KKA3_ACE_Extension_Placeables_Items"
         };
         units[] = {};
         weapons[] = {};

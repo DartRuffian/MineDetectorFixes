@@ -1,20 +1,16 @@
 #include "script_component.hpp"
-#include "CfgWeapons.hpp"
 
 
 class CfgPatches {
-    class SUBADDON {
-        author = "Your Name";
+    class ADDON {
+        author = "DartRuffian";
         name = COMPONENT_NAME;
-        addonRootClass = QUOTE(ADDON);
         requiredVersion = REQUIRED_VERSION;
         requiredAddons[] = {
-            QUOTE(ADDON)
+            "mdf_main"
         };
         units[] = {};
         weapons[] = {};
         VERSION_CONFIG;
-
-        skipWhenMissingDependencies = TRUE;
     };
 };

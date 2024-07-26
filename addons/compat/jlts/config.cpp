@@ -1,15 +1,16 @@
 #include "script_component.hpp"
-#include "CfgWeapons.hpp"
-
 
 class CfgPatches {
     class SUBADDON {
-        author = "Your Name";
+        author = "DartRuffian";
         name = COMPONENT_NAME;
         addonRootClass = QUOTE(ADDON);
         requiredVersion = REQUIRED_VERSION;
         requiredAddons[] = {
-            QUOTE(ADDON)
+            QUOTE(ADDON),
+            "JLTS_weapons_Core",
+            "JLTS_weapons_shield",
+            "JLTS_drones_MSE6"
         };
         units[] = {};
         weapons[] = {};
@@ -18,3 +19,5 @@ class CfgPatches {
         skipWhenMissingDependencies = TRUE;
     };
 };
+
+#include "CfgWeapons.hpp"

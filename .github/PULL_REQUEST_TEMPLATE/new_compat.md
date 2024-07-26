@@ -12,7 +12,7 @@ Closes #Issue Number
 
 ### Changes
 **Compat - Main**
-- Changes made to `MDF_Compat`
+- Changes made to `mdf_compat`
 
 **Compat - [Mod Prefix/Name]**
 - Simple patch applied to:

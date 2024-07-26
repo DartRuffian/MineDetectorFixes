@@ -24,6 +24,10 @@ While containing fixes for several mods, only patches for mods that players have
 
 - [Just Like The Simulations - The Great War](https://steamcommunity.com/sharedfiles/filedetails/?id=1940589429)
 - [Just Like The Simulations - Contraband](https://steamcommunity.com/sharedfiles/filedetails/?id=1875369298)
+- [cTab](https://steamcommunity.com/sharedfiles/filedetails/?id=871504836)
+  - Most cTab forks should work, as long as they keep the same addon and class names.
+- [ACE 3 Extension (Placeables)](https://steamcommunity.com/sharedfiles/filedetails/?id=866772689)
+- [Lightsabers and Force](https://steamcommunity.com/sharedfiles/filedetails/?id=2323185592)
 
 ## Contributing
 
@@ -35,8 +39,10 @@ If you find a bug in the mod or want to request a compatability patch for anothe
 
 ### Testing & building
 
-MDF is built using [HEMTT](https://github.com/BrettMayson/HEMTT). There are several build files included in [Tools/](https://github.com/DartRuffian/Mine-Detector-Fixes/tree/main/Tools) to automatically update the mod version when building and releasing.
+MDF is built using [HEMTT](https://github.com/BrettMayson/HEMTT). There are bat files included in [tools/](https://github.com/DartRuffian/Mine-Detector-Fixes/tree/main/tools) to automatically update the mod version when building and releasing.
+
+For local testing, `hemtt launch` can be used.
 
 ## License
 
-MDF is licensed under the Arma Public Licence ([APL](https://github.com/DartRuffian/Mine-Detector-Fixes/blob/main/LICENSE)).
+MDF is licensed under the [Arma Public Licence (APL)](https://github.com/DartRuffian/Mine-Detector-Fixes/blob/main/LICENSE).
