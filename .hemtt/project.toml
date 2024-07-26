@@ -4,7 +4,7 @@ prefix = "MDF"
 mainprefix = "DA"
 
 [version]
-path = "addons/Main/script_version.hpp"
+path = "addons/main/script_version.hpp"
 git_hash = 0
 
 [files]
@@ -27,7 +27,7 @@ url = "https://github.com/DartRuffian/Mine-Detector-Fixes"
 [hemtt.launch.default]
 workshop = [
     "450814997",  # CBA
-    "2369477168", # ADT"
+    "2369477168", # ADT
 ]
 presets = []
 dlc = []
@@ -37,7 +37,7 @@ parameters = []
 [hemtt.launch.jlts]
 workshop = [
     "450814997",  # CBA
-    "2369477168", # ADT"
+    "2369477168", # ADT
     "1940589429"  # JLTS
 ]
 presets = []
