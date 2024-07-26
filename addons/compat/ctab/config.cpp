@@ -1,8 +1,6 @@
 #include "script_component.hpp"
-#include "CfgWeapons.hpp"
 
-// Works for both cTab and cTab NSWDG edition
-// Will likely work for other ctab versions as well
+// Works for any cTab fork that keeps the same addon and class names
 
 class CfgPatches {
     class SUBADDON {
@@ -21,3 +19,5 @@ class CfgPatches {
         skipWhenMissingDependencies = TRUE;
     };
 };
+
+#include "CfgWeapons.hpp"
