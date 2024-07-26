@@ -1,6 +1,4 @@
 #include "script_component.hpp"
-#include "CfgWeapons.hpp"
-
 
 class CfgPatches {
     class SUBADDON {
@@ -19,3 +17,5 @@ class CfgPatches {
         skipWhenMissingDependencies = TRUE;
     };
 };
+
+#include "CfgWeapons.hpp"

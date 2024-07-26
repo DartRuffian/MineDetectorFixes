@@ -1,12 +1,9 @@
----
-name: New Compatibility Patch
-about: List a mod needing a fix for its items.
-title: ''
-labels: kind/new-compat
-assignees: ''
----
+<!-- Remove if this issue does not close an existing issue. -->
+Closes #issue number
 
-Closes #Issue Number
+**When merged this pull request will:**
+- Describe what this pull request will do
+- Each change in a separate line
 
-### Changes
-<!-- List of changes made -->
+### IMPORTANT
+- If this pull request adds a new compatibility patch, make sure to update the `docs/README.md` file.
