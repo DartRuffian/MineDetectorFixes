@@ -4,6 +4,7 @@
 #include "script_version.hpp"
 
 #define REQUIRED_VERSION 2.16
+#define REQUIRED_CBA_VERSION {3,17,0}
 
 #define VERSION     MAJOR.MINOR
 #define VERSION_STR MAJOR.MINOR.PATCH.BUILD

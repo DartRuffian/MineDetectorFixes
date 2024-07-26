@@ -30,6 +30,7 @@ While containing fixes for several mods, only patches for mods that players have
 - [Lightsabers and Force](https://steamcommunity.com/sharedfiles/filedetails/?id=2323185592)
 - [WebKnight Flashlights and Headlamps](https://steamcommunity.com/sharedfiles/filedetails/?id=2572487482)
 - [Zombies and Demons](https://steamcommunity.com/sharedfiles/filedetails/?id=501966277)
+- [Faces of War](https://steamcommunity.com/sharedfiles/filedetails/?id=891433622&tscn=1706951187)
 
 ## Contributing
 
