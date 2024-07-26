@@ -2,7 +2,7 @@
 name: New Compatibility Patch
 about: List a mod needing a fix for its items.
 title: ''
-labels: kind/new-compat status/wip
+labels: kind/new-compat
 assignees: ''
 ---
 
