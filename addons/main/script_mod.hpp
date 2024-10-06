@@ -1,5 +1,5 @@
-#define MAINPREFIX DA
-#define PREFIX MDF
+#define MAINPREFIX z
+#define PREFIX mdf
 
 #include "script_version.hpp"
 
