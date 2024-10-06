@@ -2,7 +2,8 @@
 
 class CfgPatches {
     class SUBADDON {
-        author = "DartRuffian";
+        author = AUTHOR;
+        authors[] = {"Dart"};
         name = COMPONENT_NAME;
         addonRootClass = QUOTE(ADDON);
         requiredVersion = REQUIRED_VERSION;
@@ -14,7 +15,7 @@ class CfgPatches {
         weapons[] = {};
         VERSION_CONFIG;
 
-        skipWhenMissingDependencies = TRUE;
+        skipWhenMissingDependencies = 1;
     };
 };
 

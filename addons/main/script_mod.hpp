@@ -1,10 +1,12 @@
 #define MAINPREFIX z
 #define PREFIX mdf
-
-#include "script_version.hpp"
+#define MOD_NAME Mine Detector Fixes
+#define AUTHOR "Dart"
 
 #define REQUIRED_VERSION 2.16
 #define REQUIRED_CBA_VERSION {3,17,0}
+
+#include "script_version.hpp"
 
 #define VERSION     MAJOR.MINOR
 #define VERSION_STR MAJOR.MINOR.PATCH.BUILD

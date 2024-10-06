@@ -1,4 +1,4 @@
-Copyright (c) 2023 DartRuffian
+Copyright (c) 2023 Dart
 
 Brief summary of this Licence
 
