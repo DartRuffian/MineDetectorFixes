@@ -4,7 +4,7 @@
 class CfgPatches {
     class ADDON {
         author = AUTHOR;
-        authors[] = {"Dart"};
+        authors[] = {"DartRuffian"};
         name = COMPONENT_NAME;
         requiredVersion = REQUIRED_VERSION;
         requiredAddons[] = {
