@@ -23,5 +23,11 @@ workshop = [
 [jlts]
 extends = "default"
 workshop = [
-    "1940589429"  # JLTS
+    "1940589429" # JLTS
+]
+
+[fow]
+extends = "default"
+workshop = [
+    "891433622" # Faces of War
 ]

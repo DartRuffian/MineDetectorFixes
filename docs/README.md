@@ -25,12 +25,12 @@ While containing fixes for several mods, only patches for mods that players have
 - [Just Like The Simulations - The Great War](https://steamcommunity.com/sharedfiles/filedetails/?id=1940589429)
 - [Just Like The Simulations - Contraband](https://steamcommunity.com/sharedfiles/filedetails/?id=1875369298)
 - [cTab](https://steamcommunity.com/sharedfiles/filedetails/?id=871504836)
-  - **Only the original cTab is broken. You should be using [cTab NSWDG Edition](https://steamcommunity.com/sharedfiles/filedetails/?id=2511318948&) anyway.**
+  - **Only the original cTab is broken. You should be using [cTab NSWDG Edition](https://steamcommunity.com/sharedfiles/filedetails/?id=2511318948) anyway.**
 - [ACE 3 Extension (Placeables)](https://steamcommunity.com/sharedfiles/filedetails/?id=866772689)
 - [Lightsabers and Force](https://steamcommunity.com/sharedfiles/filedetails/?id=2323185592)
 - [WebKnight Flashlights and Headlamps](https://steamcommunity.com/sharedfiles/filedetails/?id=2572487482)
 - [Zombies and Demons](https://steamcommunity.com/sharedfiles/filedetails/?id=501966277)
-- [Faces of War](https://steamcommunity.com/sharedfiles/filedetails/?id=891433622&tscn=1706951187)
+- [Faces of War](https://steamcommunity.com/sharedfiles/filedetails/?id=891433622)
 
 ## Contributing
 

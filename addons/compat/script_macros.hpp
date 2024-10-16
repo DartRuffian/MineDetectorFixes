@@ -17,4 +17,6 @@
     }; \
 }
 
-#define SIMPLE_PATCH_DEFAULT(className) SIMPLE_PATCH_TEST(className,ItemCore,InventoryWeapon_Base_F)
+#define SIMPLE_PATCH_CBA(className) SIMPLE_PATCH_TEST(className,CBA_MiscItem,CBA_MiscItem_ItemInfo)
+
+#define SIMPLE_PATCH_VANILLA(className) SIMPLE_PATCH_TEST(className,ItemCore,InventoryWeapon_Base_F)

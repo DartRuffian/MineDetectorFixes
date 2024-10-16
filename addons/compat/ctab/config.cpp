@@ -1,13 +1,14 @@
 #include "script_component.hpp"
 
-// Works for any cTab fork that keeps the same addon and class names
+// This compat does nothing for cTab NSWDG, since it already uses the CBA_MiscItem classes.
+// This is primarily meant for the original cTab or any other broken forks.
 
 class CfgPatches {
     class SUBADDON {
         author = AUTHOR;
         authors[] = {"DartRuffian"};
         name = COMPONENT_NAME;
-        addonRootClass = QUOTE(ADDON);
+        addonRootClass = "cTab";
         requiredVersion = REQUIRED_VERSION;
         requiredAddons[] = {
             QUOTE(ADDON),
