@@ -8,6 +8,18 @@ dlc = []
 optionals = []
 parameters = []
 
+[ace]
+extends = "default"
+workshop = [
+    "463939057", # ACE
+]
+
+[ace_placeables]
+extends = "default" # Extends default so custom ace version can be loaded if needed
+workshop = [
+    "866772689", # ACE 3 Extension (Placeables)
+]
+
 [jlts]
 extends = "default"
 workshop = [
