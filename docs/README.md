@@ -12,6 +12,9 @@
     <a href="https://github.com/DartsArmaMods/MineDetectorFixes/blob/main/LICENSE">
         <img src="https://img.shields.io/badge/License-APL-red.svg?style=flat-square" alt="MDF License">
     </a>
+    <br>
+    <img src="https://img.shields.io/github/actions/workflow/status/DartsArmaMods/MineDetectorFixes/hemtt.yml?style=flat-square&label=HEMTT" alt="HEMTT">
+    <img src="https://img.shields.io/github/actions/workflow/status/DartsArmaMods/MineDetectorFixes/arma.yml?style=flat-square&label=Validate" alt="Validate">
 </p>
 
 **MineDetectorFixes** (MDF) aims to serve as an "all-in-one" mod to fix various mods breaking vanilla mine detectors, which can be very frustrating for players.

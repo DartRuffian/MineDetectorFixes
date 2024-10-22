@@ -12,6 +12,9 @@
     <a href="https://github.com/DartsArmaMods/MineDetectorFixes/blob/main/LICENSE">
         <img src="https://img.shields.io/badge/License-APL-red.svg?style=flat-square" alt="MDF License">
     </a>
+    <br>
+    <img src="https://img.shields.io/github/actions/workflow/status/DartsArmaMods/MineDetectorFixes/hemtt.yml?style=flat-square&label=HEMTT" alt="HEMTT">
+    <img src="https://img.shields.io/github/actions/workflow/status/DartsArmaMods/MineDetectorFixes/arma.yml?style=flat-square&label=Validate" alt="Validate">
 </p>
 
 **MineDetectorFixes** (MDF) aims to serve as an "all-in-one" mod to fix various mods breaking vanilla mine detectors, which can be very frustrating for players.
@@ -25,12 +28,12 @@ While containing fixes for several mods, only patches for mods that players have
 - [Just Like The Simulations - The Great War](https://steamcommunity.com/sharedfiles/filedetails/?id=1940589429)
 - [Just Like The Simulations - Contraband](https://steamcommunity.com/sharedfiles/filedetails/?id=1875369298)
 - [cTab](https://steamcommunity.com/sharedfiles/filedetails/?id=871504836)
-  - Most cTab forks should work, as long as they keep the same addon and class names.
+  - **Only the original cTab is broken. You should be using [cTab NSWDG Edition](https://steamcommunity.com/sharedfiles/filedetails/?id=2511318948) anyway.**
 - [ACE 3 Extension (Placeables)](https://steamcommunity.com/sharedfiles/filedetails/?id=866772689)
 - [Lightsabers and Force](https://steamcommunity.com/sharedfiles/filedetails/?id=2323185592)
 - [WebKnight Flashlights and Headlamps](https://steamcommunity.com/sharedfiles/filedetails/?id=2572487482)
 - [Zombies and Demons](https://steamcommunity.com/sharedfiles/filedetails/?id=501966277)
-- [Faces of War](https://steamcommunity.com/sharedfiles/filedetails/?id=891433622&tscn=1706951187)
+- [Faces of War](https://steamcommunity.com/sharedfiles/filedetails/?id=891433622)
 
 ## Contributing
 
