@@ -1,13 +1,4 @@
-#define SIMPLE_PATCH(CLASSNAME) class CLASSNAME##: CBA_MiscItem { \
-    detectRange = 0; \
-    simulation = "Weapon"; \
-    type = TYPE_ITEM; \
-    class ItemInfo: CBA_MiscItem_ItemInfo { \
-        type = TYPE_BIPOD; \
-    }; \
-}
-
-#define SIMPLE_PATCH_TEST(className,baseClass,itemInfoBaseClass) class className: baseClass { \
+#define SIMPLE_PATCH(className,baseClass,itemInfoBaseClass) class className: baseClass { \
     type = TYPE_ITEM; \
     simulation = "Weapon"; \
     detectRange = 0; \
@@ -17,6 +8,8 @@
     }; \
 }
 
-#define SIMPLE_PATCH_CBA(className) SIMPLE_PATCH_TEST(className,CBA_MiscItem,CBA_MiscItem_ItemInfo)
+#define SIMPLE_PATCH_CBA(className) SIMPLE_PATCH(className,CBA_MiscItem,CBA_MiscItem_ItemInfo)
 
-#define SIMPLE_PATCH_VANILLA(className) SIMPLE_PATCH_TEST(className,ItemCore,InventoryWeapon_Base_F)
+// Mods tend to use either InventoryWeapon_Base_F or InventoryItem_Base_F for a base class for ItemInfo.
+// InventoryWeapon_Base_F seemed to be more common for the mods I tested.
+#define SIMPLE_PATCH_VANILLA(className) SIMPLE_PATCH(className,ItemCore,InventoryWeapon_Base_F)

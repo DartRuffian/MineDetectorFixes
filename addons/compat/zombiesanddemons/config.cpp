@@ -5,7 +5,7 @@ class CfgPatches {
         author = AUTHOR;
         authors[] = {"DartRuffian"};
         name = COMPONENT_NAME;
-        addonRootClass = QUOTE(ADDON);
+        addonRootClass = "Ryanzombies";
         requiredVersion = REQUIRED_VERSION;
         requiredAddons[] = {
             QUOTE(ADDON),

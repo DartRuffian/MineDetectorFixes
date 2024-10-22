@@ -3,9 +3,9 @@
 class CfgPatches {
     class SUBADDON {
         author = AUTHOR;
-        authors[] = {"Cannon"};
+        authors[] = {"Cannon", "DartRuffian"};
         name = COMPONENT_NAME;
-        addonRootClass = QUOTE(ADDON);
+        addonRootClass = "WBK_SomeSciFiWeapons";
         requiredVersion = REQUIRED_VERSION;
         requiredAddons[] = {
             QUOTE(ADDON),

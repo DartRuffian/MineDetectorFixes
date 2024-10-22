@@ -31,3 +31,21 @@ extends = "default"
 workshop = [
     "891433622" # Faces of War
 ]
+
+[wbk_headlamps]
+extends = "default"
+workshop = [
+    "2572487482" # WebKnight Flashlights and Headlamps
+]
+
+[wbk_lightsabers]
+extends = "default"
+workshop = [
+    "2323185592" # Lightsabers and Force
+]
+
+[zombiesanddemons]
+extends = "default"
+workshop = [
+    "501966277" # Zombies and Demons
+]

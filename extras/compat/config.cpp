@@ -5,10 +5,11 @@ class CfgPatches {
         author = AUTHOR;
         authors[] = {"You!"};
         name = COMPONENT_NAME;
-        addonRootClass = QUOTE(ADDON);
+        addonRootClass = "addonName";
         requiredVersion = REQUIRED_VERSION;
         requiredAddons[] = {
-            QUOTE(ADDON)
+            QUOTE(ADDON),
+            "addonName"
         };
         units[] = {};
         weapons[] = {};
