@@ -14,6 +14,12 @@ workshop = [
     "463939057", # ACE
 ]
 
+[ace_local]
+extends = "default"
+parameters = [
+    '-mod="C:\Coding\GitHub Repos\ACE3\.hemttout\release"'
+]
+
 [ace_placeables]
 extends = "default" # Extends default so custom ace version can be loaded if needed
 workshop = [
