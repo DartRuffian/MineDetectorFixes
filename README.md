@@ -1,7 +1,7 @@
 # <center>Mine Detector Fixes</center>
 <p align="center">
     <a href="https://github.com/DartsArmaMods/MineDetectorFixes/releases/latest">
-        <img src="https://img.shields.io/badge/Version-1.3.0-blue.svg?style=flat-square" alt="MDF Version">
+        <img src="https://img.shields.io/badge/Version-1.4.0-blue.svg?style=flat-square" alt="MDF Version">
     </a>
     <a href="https://github.com/DartsArmaMods/MineDetectorFixes/issues">
         <img src="https://img.shields.io/github/issues-raw/DartsArmaMods/MineDetectorFixes.svg?style=flat-square&label=Issues" alt="MDF Issues">
