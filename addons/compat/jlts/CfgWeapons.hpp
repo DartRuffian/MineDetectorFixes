@@ -1,7 +1,8 @@
 class CfgWeapons {
-    class CBA_MiscItem;
-    class CBA_MiscItem_ItemInfo;
-    SIMPLE_PATCH(JLTS_repairkit_weapon);
-    SIMPLE_PATCH(JLTS_riot_shield_item);
-    SIMPLE_PATCH(JLTS_droidCaller);
+    class ItemCore;
+    class InventoryItem_Base_F;
+    class InventoryWeapon_Base_F;
+    SIMPLE_PATCH_VANILLA(JLTS_repairkit_weapon);
+    SIMPLE_PATCH_VANILLA(JLTS_riot_shield_item);
+    SIMPLE_PATCH(JLTS_droidCaller,ItemCore,InventoryItem_Base_F);
 };
